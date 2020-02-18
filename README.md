@@ -13,7 +13,7 @@ Hangman.ino-arduboy-leonardo-ssd1306.bin|keykat-it.ino.leonardo.bin|MiniRogue.in
 HelloCommander.bin|MicroCity.bin| | |JunoFirst.V1.00.bin| | | | 
 Humanity\_Revenge\_DC.ino.leonardo.bin|SpaceCab.bin| | |Karateka.bin| | | | 
 Leanna the Lion.bin|TINY\_BERTrev2.bin| | |xmasgame.ino.leonardo.bin| | | | 
-LoveRush\_v1.1.1.bin|TinyPlaque.bin| | | | | | | 
+LoveRush\_v1.1.1.bin|TinyPlaque.bin| | |LodeRunner.V104.Levels.bin| | | | 
 Millipe.bin|TinyTris.bin| | | | | | | 
 Night Raid.bin|under\_the\_tower\_arduboy.bin| | | | | | | 
 poitto.bin| | | | | | | | 
