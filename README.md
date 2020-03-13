@@ -8,7 +8,7 @@ Here is a table of applicable licenses for each .bin as per https://arduboy.ried
 1943.bin|3in1A.ino.leonardo.bin|ArduMetronome.bin|Bombzzle.bin|Box\_Stacker.bin|Flappy\_Bird.ino.leonardo.bin|Harambe's\_Revenge.bin|MAZEZAM.bin|microtd-1-01.bin
 Arduboy3D.bin|A-Maze-MCVert.ino.bin|Blackjack.ino.bin|pactastic.bin|Choplifter.bin|Pocket\_Fighter.bin| | | 
 CastleBoy.ino.bin|Ardu-Whack.bin|Farkle.ino.bin|Super-Crate-Buino.ino.bin|Cribbage.bin|Pocket\_Othello.bin| | | 
-Curse.V1.0.bin|Armageddon.bin|Minesweeper.EN-GB.bin| |Dominoes.bin| | | | 
+Curse.V1.0.bin|Armageddon.bin|Minesweeper.EN-GB.bin|ArduBreakout.bin|Dominoes.bin| | | | 
 diamonds.bin|Bang!\_Bang!.bin|MiniRogue.ino.bin| |Flappy\_Ball.bin| | | | 
 EggMasterPro2020.bin|Jezzball.bin| | |HP35boy.ino.leonardo.bin| | | | 
 Evade.bin|joustish.bin| | |JunoFirst.V1.00.bin| | | | 
@@ -23,7 +23,7 @@ knightmove\_v0.10.bin|TINY\_BERTrev2.bin| | | | | | |
 Kong.V1.0.3.bin|TinyPlaque.bin| | | | | | | 
 KongII.V1.0.bin|TinyTris.bin| | | | | | | 
 Leanna\_the\_Lion.bin|under\_the\_tower\_arduboy.bin| | | | | | | 
-LoveRush\_v1.1.1.bin| | | | | | | | 
+LoveRush\_v1.1.1.bin|PaddleTest.bin| | | | | | | 
 Millipe.bin| | | | | | | | 
 Night\_Raid.bin| | | | | | | | 
 Nineteen43\_Vertical.bin| | | | | | | | 
