@@ -24,7 +24,7 @@ Kong.V1.0.3.bin|TinyPlaque.bin| | | | | | |
 KongII.V1.0.bin|TinyTris.bin| | | | | | | 
 Leanna\_the\_Lion.bin|under\_the\_tower\_arduboy.bin| | | | | | | 
 LoveRush\_v1.1.1.bin|PaddleTest.bin| | | | | | | 
-Millipe.bin| | | | | | | | 
+Millipe.bin|VideoPoker.ino.bin| | | | | | | 
 Night\_Raid.bin| | | | | | | | 
 Nineteen43\_Vertical.bin| | | | | | | | 
 poitto.bin| | | | | | | | 
